@@ -66,4 +66,14 @@ public class Task {
         this.assignedTo = assignedTo;
     }
 
+    public Object getDeadline() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getDeadline'");
+    }
+
+    public void setDueDate(Object deadline) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setDueDate'");
+    }
+
 }
